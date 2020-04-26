@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.entando.entando.plugins:entando-plugin-jpkiebpm:war:5.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/plugins/entando-plugin-jpkiebpm/5.0.3-SNAPSHOT/entando-plugin-jpkiebpm-5.0.3-20190307.085735-24.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/plugins/entando-plugin-jpkiebpm/5.0.3-SNAPSHOT/entando-plugin-jpkiebpm-5.0.3-20190307.085735-24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/plugins/entando-plugin-jpkiebpm/5.0.3-SNAPSHOT/entando-plugin-jpkiebpm-5.0.3-20190307.085735-24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

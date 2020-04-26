@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.entando.entando.bundles.app-view:entando-app-view-cms-default:war:5.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/app-view/entando-app-view-cms-default/5.0.3-SNAPSHOT/entando-app-view-cms-default-5.0.3-20190307.085918-23.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/app-view/entando-app-view-cms-default/5.0.3-SNAPSHOT/entando-app-view-cms-default-5.0.3-20190307.085918-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/app-view/entando-app-view-cms-default/5.0.3-SNAPSHOT/entando-app-view-cms-default-5.0.3-20190307.085918-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

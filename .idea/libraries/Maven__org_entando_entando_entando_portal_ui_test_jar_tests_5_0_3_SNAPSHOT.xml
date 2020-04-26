@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.entando.entando:entando-portal-ui:test-jar:tests:5.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-portal-ui/5.0.3-SNAPSHOT/entando-portal-ui-5.0.3-20190307.084737-48-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-portal-ui/5.0.3-SNAPSHOT/entando-portal-ui-5.0.3-20190307.084737-48-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-portal-ui/5.0.3-SNAPSHOT/entando-portal-ui-5.0.3-20190307.084737-48-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.entando.entando:entando-admin-console:5.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-admin-console/5.0.3-SNAPSHOT/entando-admin-console-5.0.3-20190307.084726-51.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-admin-console/5.0.3-SNAPSHOT/entando-admin-console-5.0.3-20190307.084726-51-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/entando-admin-console/5.0.3-SNAPSHOT/entando-admin-console-5.0.3-20190307.084726-51-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

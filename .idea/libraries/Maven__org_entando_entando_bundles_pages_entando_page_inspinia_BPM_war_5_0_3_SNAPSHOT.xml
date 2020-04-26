@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.entando.entando.bundles.pages:entando-page-inspinia_BPM:war:5.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/pages/entando-page-inspinia_BPM/5.0.3-SNAPSHOT/entando-page-inspinia_BPM-5.0.3-20190307.085905-23.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/pages/entando-page-inspinia_BPM/5.0.3-SNAPSHOT/entando-page-inspinia_BPM-5.0.3-20190307.085905-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/entando/entando/bundles/pages/entando-page-inspinia_BPM/5.0.3-SNAPSHOT/entando-page-inspinia_BPM-5.0.3-20190307.085905-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

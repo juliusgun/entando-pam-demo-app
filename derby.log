@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Sun Apr 26 16:02:06 WIB 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0171-b5b8-e9fa-000005dc5340 
+on database directory /Users/juliusgu/Downloads/sc/entando-pam-app-5.0.3/entando-pam-demo-app/target/derby/production/entando-pam-app-5.0.3Port  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.4.8.v20180619, parent: jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c] 
+Loaded from file:/Users/juliusgu/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.7+8-LTS
+user.dir=/Users/juliusgu/Downloads/sc/entando-pam-app-5.0.3/entando-pam-demo-app
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Apr 26 16:02:09 WIB 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a02ac013-0171-b5b8-e9fa-000005dc5340 
+on database directory /Users/juliusgu/Downloads/sc/entando-pam-app-5.0.3/entando-pam-demo-app/target/derby/production/entando-pam-app-5.0.3Serv  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.4.8.v20180619, parent: jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c] 
+Loaded from file:/Users/juliusgu/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.7+8-LTS
+user.dir=/Users/juliusgu/Downloads/sc/entando-pam-app-5.0.3/entando-pam-demo-app
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
